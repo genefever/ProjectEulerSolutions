@@ -2,7 +2,9 @@
  * Solution to Project Euler problem 18
  * by Gene Horecka
  * 
- * https://github.com/genefever/
+ * June 22, 2016
+ * 
+ * https://github.com/genefever/ProjectEulerSolutions
  */
 
 import java.io.*;
