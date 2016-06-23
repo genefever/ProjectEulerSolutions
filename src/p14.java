@@ -1,5 +1,5 @@
 /* 
- * Solution to Project Euler problem 16
+ * Solution to Project Euler problem 14
  * by Gene Horecka
  * 
  * June 22, 2016
@@ -10,7 +10,7 @@
 public final class p14 {
 
 	public static void main(String[] args) {
-;
+		
 		int i = 0;
 		int longestChainNum = 0;
 		long curr = 0;

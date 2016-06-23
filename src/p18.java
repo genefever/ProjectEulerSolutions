@@ -54,6 +54,7 @@ public final class p18 {
 			
 			System.out.println(table[0][0]);
 			reader1.close();
+			reader2.close();
 			
 		} catch(FileNotFoundException e) {
 			
