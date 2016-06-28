@@ -2,7 +2,7 @@
  * Solution to Project Euler problem 21
  * by Gene Horecka
  * 
- * June 22, 2016
+ * June 27, 2016
  * 
  * https://github.com/genefever/ProjectEulerSolutions
  */
